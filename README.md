@@ -20,7 +20,7 @@ By using these tactics, the agents can effectively defend their flag while also 
 
 ## How to Run
 
-To run this game, follow these steps:
+To run this game, ensure you have Python installed on your machine and follow these steps:
 
 1. Clone this repository to your local machine using
 
@@ -40,4 +40,4 @@ cd CaptureTheFlagAgent
 python main.py
 ```
 
-Ensure that you have Python installed on your machine to run the game.
+Codes for both the blue and red agents are exactly the same. Change either one freely to your own will and try to beat my agent 😃. 
