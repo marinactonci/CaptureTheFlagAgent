@@ -1,10 +1,10 @@
 # Capture The Flag Agent
 
-This project is a game where agents compete to capture the enemy's flag. The agents use a breadth-first pathfinding algorithm to locate and capture the enemy flag while also avoiding or shooting at enemy agents.
+This project is a game where agents compete to capture the enemy's flag. The agents use a breadth-first pathfinding algorithm to locate and capture the enemy flag while also shoots at enemy agents.
 
 ## Game Mechanics
 
-In the game, each team has a flag and the objective is to capture the enemy's flag and bring it back to your base. The game ends when one team successfully captures the enemy's flag.
+In the game, each team has a flag and the objective is to capture the enemy's flag and bring it back to your base. The game ends when either one team successfully captures the enemy's flag or kills all enemy agents.
 
 ## Agent Behavior
 
