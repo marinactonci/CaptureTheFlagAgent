@@ -4,7 +4,7 @@ This project is a game where agents compete to capture the enemy's flag. The age
 
 ## Game Mechanics
 
-In the game, each team has a flag and the objective is to capture the enemy's flag and bring it back to your base. The game ends when either one team successfully captures the enemy's flag or kills all enemy agents.
+In the game, each team has a flag and the objective is to capture the enemy's flag and bring it back to your base. The game ends when one team successfully captures the enemy's flag or kills all enemy agents.
 
 ## Agent Behavior
 
